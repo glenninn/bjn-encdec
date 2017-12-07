@@ -1,0 +1,14 @@
+{
+  "name": "wmcplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encdec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glenn@bluejeans.com",
+  "license": "ISC",
+  "dependencies": {
+    "base32": "0.0.6"
+  }
+}
